@@ -1,4 +1,4 @@
-import { service } from "./service.js";
+import { service } from "./server.js";
 
 const port: number = 3333;
 
