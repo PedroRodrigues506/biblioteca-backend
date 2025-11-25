@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,7 +13,7 @@
     "url": "git+https://github.com/PedroRodrigues506/biblioteca_backend.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Pedro Henrique Rodrigues dos Santos",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/PedroRodrigues506/biblioteca_backend/issues"
